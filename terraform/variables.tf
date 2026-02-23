@@ -11,4 +11,4 @@ variable "clusterName" {
 }
 
 
-##
+## Add more variables as needed for your Terraform configuration
